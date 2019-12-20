@@ -1,0 +1,26 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "Developer-Profile-Generator",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "electron-html-to": "^2.6.0",
+    "electron-pdf": "^4.0.8",
+    "inquirer": "^7.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHavrilak/Your-Web-Developer-Profile-Generator.git"
+  },
+  "author": "Mike Havrilak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHavrilak/Your-Web-Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/MHavrilak/Your-Web-Developer-Profile-Generator#readme"
+}
