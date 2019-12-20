@@ -175,6 +175,11 @@ const colors = {
         <body>
         <h1>${data.login}</h1>
         <a href='${data.mapURL}'>${data.location}</a>
+        <h2>${data.mapURL}></h2>
+        <h2>${data.html_url}></h2>
+        <h2>${data.blog}</h2>
+        <h2>${data.public_repos}></h2>
+        <h2>${data.followers}</h2>}
         </body>
         </html>`
           }
